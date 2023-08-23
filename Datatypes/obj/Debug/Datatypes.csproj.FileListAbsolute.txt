@@ -1,0 +1,7 @@
+C:\Users\khush\source\repos\Datatypes\Datatypes\bin\Debug\Datatypes.exe.config
+C:\Users\khush\source\repos\Datatypes\Datatypes\bin\Debug\Datatypes.exe
+C:\Users\khush\source\repos\Datatypes\Datatypes\bin\Debug\Datatypes.pdb
+C:\Users\khush\source\repos\Datatypes\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
+C:\Users\khush\source\repos\Datatypes\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\Datatypes\Datatypes\obj\Debug\Datatypes.exe
+C:\Users\khush\source\repos\Datatypes\Datatypes\obj\Debug\Datatypes.pdb
